@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  background-color: black;
+  display: inline;
+  color: honeydew;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 100;
+}
+button {
+  margin-left: 20px;
+  background-color: black;
+  color: whitesmoke;
+  border: 3px solid;
+  height: 35px;
+  width: 55px;
+  border-radius: 30%;
+}
+input {
+  text-align: center;
+  color: black;
+  border: 2px dotted black;
+
+  width: 155px;
+  height: 20px;
+}
+ul li {
+  font-weight: 300;
+  font-family: cursive;
+  margin-right: 100px;
+  margin-top: 12px;
+}
+.complete {
+  width: 70px;
+  margin-left: 130px;
+  margin-bottom: 12px;
+  background-color: white;
+  color: black;
+}
